@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 프레임워크 DeviceDefault(One UI/Material) 기반. API31+에서 시스템 동적 색상 반영.
+         액션바 제거 → 커스텀 헤더만 노출. -->
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

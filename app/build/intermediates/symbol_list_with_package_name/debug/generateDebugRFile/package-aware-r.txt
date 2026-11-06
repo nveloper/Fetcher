@@ -1,0 +1,5 @@
+node.nveloper.fetcher
+string acc_desc
+string app_name
+style AppTheme
+xml accessibility_service_config

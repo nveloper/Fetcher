@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fetcher</string>
+    <string name="acc_desc">카카오톡 대화방 화면에서 인증번호를 읽어 Fetcher 알림으로 재게시합니다.</string>
+</resources>

@@ -1,0 +1,65 @@
+{
+    "logs": [
+        {
+            "outputFile": "node.nveloper.fetcher.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Base\\Downloads\\Fetcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,136",
+                        "endColumns": "80,44",
+                        "endOffsets": "131,176"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Base\\Downloads\\Fetcher\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "162",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "364"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "181",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "383"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Base\\.gradle\\daemon\\9.4.1\\node.nveloper.fetcher.app-mergeDebugResources-1:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Base\\Downloads\\Fetcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,55",
+                        "endColumns": "80,44",
+                        "endOffsets": "176,95"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,136",
+                        "endColumns": "80,44",
+                        "endOffsets": "131,176"
+                    }
+                }
+            ]
+        }
+    ]
+}

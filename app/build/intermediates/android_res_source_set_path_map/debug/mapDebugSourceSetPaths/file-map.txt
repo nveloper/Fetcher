@@ -1,0 +1,8 @@
+node.nveloper.fetcher.app-pngs-0 C:\Users\Base\Downloads\Fetcher\app\build\generated\res\pngs\debug
+node.nveloper.fetcher.app-updated_navigation_xml-1 C:\Users\Base\Downloads\Fetcher\app\build\generated\updated_navigation_xml\debug
+node.nveloper.fetcher.app-packageDebugResources-2 C:\Users\Base\Downloads\Fetcher\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+node.nveloper.fetcher.app-packageDebugResources-3 C:\Users\Base\Downloads\Fetcher\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+node.nveloper.fetcher.app-debug-4 C:\Users\Base\Downloads\Fetcher\app\build\intermediates\merged_res\debug\mergeDebugResources
+node.nveloper.fetcher.app-debug-5 C:\Users\Base\Downloads\Fetcher\app\src\debug\res
+node.nveloper.fetcher.app-main-6 C:\Users\Base\Downloads\Fetcher\app\src\main\res
+gradleHome-0 C:\Users\Base\.gradle

@@ -1,0 +1,4 @@
+node.nveloper.fetcher:style/AppTheme = 0x7f020000
+node.nveloper.fetcher:xml/accessibility_service_config = 0x7f030000
+node.nveloper.fetcher:string/app_name = 0x7f010001
+node.nveloper.fetcher:string/acc_desc = 0x7f010000

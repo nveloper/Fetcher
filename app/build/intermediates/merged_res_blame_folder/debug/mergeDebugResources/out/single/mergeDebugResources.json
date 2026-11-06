@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "node.nveloper.fetcher.app-debug-3:/xml_accessibility_service_config.xml.flat",
+        "source": "node.nveloper.fetcher.app-main-5:/xml/accessibility_service_config.xml"
+    }
+]
